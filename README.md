@@ -1,4 +1,4 @@
-# AI BASED EMOTUNE
+# AI based EmoTune
 Developed an AI-powered web application that recommends music based on facial emotion recognition using MediaPipe, TensorFlow, Keras, OpenCV, and Streamlit.
 
 The Emotion-Based Music Recommendation System is an innovative project aimed at enhancing user experience by offering personalized music recommendations based on facial emotion recognition. By leveraging advanced machine learning and computer vision technologies, this application provides a seamless and interactive way to align music with the user's current emotional state. 
